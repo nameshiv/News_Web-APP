@@ -4,4 +4,4 @@
   - Designed an intuitive user interface focused on usability and accessibility.
   - 
 # OUTPUT
-![Screenshot (6)](https://github.com/user-attachments/assets/e5f7a934-9ac5-4401-be6e-aad826a43bcb)
+![Screenshot (5)](https://github.com/user-attachments/assets/9224212d-b884-4664-9311-171d03bdd0c5)
